@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dhidhin
 - 👀 I’m interested in web programming, mobile programming, Cloud Computing
-- 🌱 I’m currently learning AWS Cloud
 - 💞️ I’m looking to collaborate on web programming and mobile programming
 - 📫 How to reach me (email : dhidhin@gmail.com)
 
