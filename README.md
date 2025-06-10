@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhidhin
-- 👀 I’m interested in web programming, mobile programming, Cloud Computing
+- 👀 I’m interested in web programming, mobile programming, Cloud Computing, Computer Vision, AI
 - 💞️ I’m looking to collaborate on web programming and mobile programming
 - 📫 How to reach me (email : dhidhin@gmail.com)
 
